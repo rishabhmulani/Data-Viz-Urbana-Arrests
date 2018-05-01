@@ -3,4 +3,6 @@
 
 The ipython notebook (jupyter notebook) contains many interactive visualizations which use ipywidgets, bqplot and plotly. As some of these interactive visualizations do not render correctly on Github or even nbviewer, I advise you to download the jupyter notebook and follow the instructions within.
 
+Here's the link to the repository: https://github.com/rishabhmulani/rishabhmulani.github.io/
+
 ##### Happy visualizing!
